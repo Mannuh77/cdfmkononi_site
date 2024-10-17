@@ -24,20 +24,21 @@ Backend: PHP, MySQL
 	Constituencyadms.zip (link to your hosted ZIP file)
 	Constituents.zip (link to your hosted ZIP file)
 	admin.zip (link to your hosted ZIP file)
-**	Step 2: Extract the ZIP Files**
-		Extract each ZIP file to a desired directory on your local machine:
+**Step 2: Extract the ZIP Files**
+	Extract each ZIP file to a desired directory on your local machine:
 			
-		bash
-		Copy code
-		unzip Constituencyadms.zip -d ./Constituencyadms
-		unzip Constituents.zip -d ./Constituents
-		unzip admin.zip -d ./admin
+	bash
+	Copy code
+	unzip Constituencyadms.zip -d ./Constituencyadms
+	unzip Constituents.zip -d ./Constituents
+	unzip admin.zip -d ./admin
 
 Step 3: Set Up the Project
 Place the extracted files in your web server’s root directory (e.g., htdocs for XAMPP).
 Configure your local environment (PHP and MySQL required).
 Import the database and configure the connection settings in the project files.
-Step 4: Run the Application
+
+**Step 4: Run the Application**
 After setting up, access the project in your browser by navigating to:
 
 bash
