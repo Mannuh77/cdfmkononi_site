@@ -15,10 +15,14 @@ The **CDF Mkononi** app is designed to bridge the gap between constituents and t
 ## Goal
 To improve the quality of life in constituencies by making government services more accessible, transparent, and participatory.
 
-## Installation
-1. Clone the repository: `git clone https://github.com/Mannuh77/cdfmkononi_site.git`
-2. Navigate to the project directory.
-3. Set up your local environment and database.
+
+To allow access to the code through a downloadable ZIP file instead of cloning via Git, you can host the cdfmkononi.zip file on your server or a file-sharing platform and provide the download link directly. Here's an example of how you can modify your instructions to reflect that change:
+
+Installation
+1. Download the project ZIP file: cdfmkononi.zip (10.4 MB)
+2. Extract the ZIP file to a desired directory on your local machine.
+3. Set up your local environment and database according to the project's configuration.
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
