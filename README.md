@@ -1,4 +1,3 @@
-
 CDF Mkononi Desktop Application
 The CDF Mkononi app is designed to bridge the gap between constituents and the Constituency Development Fund (CDF) by providing an accessible digital platform. This project focuses on enhancing service delivery of various CDF services within the constituency.
 
@@ -23,7 +22,7 @@ Constituencyadms.zip (link to your hosted ZIP file)
 Constituents.zip (link to your hosted ZIP file)
 admin.zip (link to your hosted ZIP file)
 Step 2: Extract the ZIP Files
-Extract each ZIP file to a desired directory on your local machine using the following commands or any archive manager:
+Extract each ZIP file to a desired directory on your local machine:
 
 bash
 Copy code
@@ -31,18 +30,19 @@ unzip Constituencyadms.zip -d ./Constituencyadms
 unzip Constituents.zip -d ./Constituents
 unzip admin.zip -d ./admin
 Step 3: Set Up the Project
-After extracting the files, follow these steps to set up the project:
-
-Place the extracted files in your web server's root directory (e.g., htdocs for XAMPP).
-Ensure that your local environment is configured with PHP and MySQL.
-Import the provided SQL file into your database and configure the database connection settings in the project files as required.
+Place the extracted files in your web server’s root directory (e.g., htdocs for XAMPP).
+Configure your local environment (PHP and MySQL required).
+Import the database and configure the connection settings in the project files.
 Step 4: Run the Application
-Once setup is complete, access the project by navigating to http://localhost/your_project_directory in your web browser.
+After setting up, access the project in your browser by navigating to:
 
+bash
+Copy code
+http://localhost/your_project_directory
 License
 This project is licensed under the MIT License.
 
 Contact
-For any questions or support, please contact:
+For any inquiries, please contact:
 
 Email: peterkimindu2@gmail.com
