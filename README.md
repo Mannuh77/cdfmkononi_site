@@ -28,5 +28,5 @@ Installation
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-- **Email**: your-email@example.com
+- **Email**: peterkimindu2@gmail.com
 - **Website**: [your-website.com](http://your-website.com)
