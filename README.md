@@ -33,7 +33,8 @@ Backend: PHP, MySQL
 	unzip Constituents.zip -d ./Constituents
 	unzip admin.zip -d ./admin
 
-Step 3: Set Up the Project
+**Step 3: Set Up the Project**
+
 Place the extracted files in your web server’s root directory (e.g., htdocs for XAMPP).
 Configure your local environment (PHP and MySQL required).
 Import the database and configure the connection settings in the project files.
