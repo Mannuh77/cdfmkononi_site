@@ -1,0 +1,147 @@
+.constimg {
+    animation: fadeInOut 3s infinite alternate; /* Added animation */
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.about {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+         .constmp{
+    width:42%;
+    height:52vh;
+    border: 3px solid #be1c1c;
+}
+.abtmp{
+    margin-left:47%;
+    margin-top:-53vh;
+    width:42%;
+    height:50%;
+    font-size: 22px;
+    border: 3px solid #be1c1c;  
+}
+.rec-container1{
+border: 1px solid #be1c1c;
+padding: 10px;
+margin-top: 50px;
+font-size: 24px;
+overflow-y: scroll; 
+height: 70%;
+font-weight: bold;
+width: 100%;
+border-radius: 5px;
+background-color: #c9e9bf;
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.rec-container{
+ width: 100%;
+}
+.rec-container2{
+    border: 1px solid #be1c1c;
+   padding: 10px;
+   margin-top: 50px;
+   font-size: 24px;
+   overflow-y: scroll; 
+   height: 100%;
+   font-weight: bold;
+   border-radius: 5px;
+   background-color: #c9e9bf;
+}
+.chair{
+    min-height: fit-content;
+    width:249px;
+    margin: 20px;
+    background: linear-gradient(to right,rgb(119, 187, 18),rgb(216, 100, 22));
+}
+
+.chair:hover{
+    opacity: 0.7; /* Adjust the opacity during hover */
+transform: scale(0.9);
+cursor: pointer;
+}
+.staff{
+    height: fit-content;
+    width:249px;
+    margin: 20px;
+    background: wheat;  
+}
+.staff:hover{
+    opacity: 0.7; /* Adjust the opacity during hover */
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+.user{
+    height: 100px;
+    width:100px;
+  
+}
+.abtproj{
+    width: 50%;
+    height: 70%;
+}
+.projdes{
+    width: 50%;
+    height: 50%;
+    text-decoration: underline;
+    margin-left: 51%;
+    margin-top:-29%
+}
+.rec-container3{
+    border: 1px solid #be1c1c;
+   padding: 10px;
+
+   font-size: 24px;
+    
+} 
+#bursaryappform{
+    border: 1px solid #be1c1c;
+                  padding: 10px;
+                  margin: 10px;
+                  font-size: 0.5cm;
+                  margin-left: 20%;
+                  margin-right: -10%;
+                  height: 4cm;
+                  overflow-y: scroll; 
+                  width: 50%;
+                  height: 50%;
+                  border-radius: 5px;
+                  background-color: #64a750;
+}
+
+.abtcontainer {
+    width: 100%; /* Adjust width as needed */
+    height: 400px; /* Set a fixed height for scrolling */
+    overflow-y: scroll; /* Enable vertical scrolling */
+    border: 1px solid #be1c1c;
+    padding: 10px;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #c9e9bf;
+}
+.form-label {
+    font-size: 18px; /* Adjust the font size as desired */
+    font-weight: bold; /* Make the labels bold */
+}
+
+.form-input {
+    width: 300px; 
+    font-size: 16px; /* Adjust the font size as desired */
+    padding: 8px; /* Adjust the padding as desired */
+    border-radius: 4px; 
+    border: 1px solid #ccc; /* Optional: Add border for styling */
+}
