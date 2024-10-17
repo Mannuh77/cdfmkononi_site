@@ -16,7 +16,7 @@ The **CDF Mkononi** app is designed to bridge the gap between constituents and t
 To improve the quality of life in constituencies by making government services more accessible, transparent, and participatory.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/cdfmkononi_site.git`
+1. Clone the repository: `git clone https://github.com/Mannuh77/cdfmkononi_site.git`
 2. Navigate to the project directory.
 3. Set up your local environment and database.
 
