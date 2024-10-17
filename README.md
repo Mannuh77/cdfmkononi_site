@@ -1,5 +1,6 @@
 **CDF Mkononi Desktop Application**
-The CDF Mkononi app is designed to bridge the gap between constituents and the Constituency Development Fund (CDF) by providing an accessible digital platform. This project focuses on enhancing service delivery of various CDF services within the constituency.
+
+  The CDF Mkononi app is designed to bridge the gap between constituents and the Constituency Development Fund (CDF) by providing an accessible digital platform. This project focuses on       enhancing service delivery of various CDF services within the constituency.
 
 **Key Features**
 Convenient access to CDF services
