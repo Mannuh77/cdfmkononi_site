@@ -12,7 +12,7 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP, MySQL
 
 **Goal**
-		To improve the quality of life in constituencies by making government services more accessible, transparent, and participatory.
+	To improve the quality of life in constituencies by making government services more accessible, transparent, and participatory.
 
 **Installation Instructions**
 		To install and use the contents of the project, follow these steps:
