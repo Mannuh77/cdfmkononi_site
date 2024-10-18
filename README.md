@@ -1,5 +1,5 @@
-CDF Mkononi Desktop Application
-The CDF Mkononi app is a digital platform designed to bridge the gap between constituents and the Constituency Development Fund (CDF) services by making them more accessible and transparent. The application enables real-time tracking of CDF projects, promotes transparency, and fosters active citizen participation in governance processes.
+**CDF Mkononi Desktop Application**
+	The CDF Mkononi app is a digital platform designed to bridge the gap between constituents and the Constituency Development Fund (CDF) services by making them more accessible and transparent. The application enables real-time tracking of CDF projects, promotes transparency, and fosters active citizen participation in governance processes.
 
 Table of Contents
 Project Overview
@@ -40,6 +40,7 @@ Constituents.zip
 Admin.zip
 Extract ZIP Files
 Extract the ZIP files to a directory of your choice using the following commands:
+
 bash
 Copy code
 unzip Constituencyadms.zip -d ./Constituencyadms
@@ -54,6 +55,7 @@ Update the database configuration in the project files (usually in config.php):
 Set your host, username, password, and database name as per your local environment.
 Run the Application
 After completing the setup, launch the app in your browser by navigating to:
+
 bash
 Copy code
 http://localhost/your_project_directory
